@@ -1,0 +1,25 @@
+body {
+    background-color: #dae1e7;
+}
+
+
+.card {
+    margin-top: 50px;
+    margin-left: 225px;
+    margin-bottom: 50px;
+    width: 50rem; 
+}
+
+h1{
+    padding-top: 50px;
+    
+}
+.header1 {
+    height: 150px;
+    /* background-color: #844685; */
+    background-color: #ffc107;
+    text-align: center;
+    font-family: 'Cabin', sans-serif;
+
+
+}
